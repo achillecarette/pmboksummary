@@ -1,0 +1,14 @@
+Overview.txt
+Introduction.txt
+Project Life Cycle.txt
+Management Process.txt
+Integration Management.txt
+Scope Management.txt
+Time Management.txt
+Cost Management.txt
+Quality Management.txt
+HR Management.txt
+Communications Management.txt
+Risk Management.txt
+Procurement Management.txt
+Stakeholder Management.txt

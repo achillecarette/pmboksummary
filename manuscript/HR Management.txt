@@ -1,0 +1,74 @@
+# Human Resources Management (9.)
+
+{width="wide"}
+| Initiating | Planing | Executing | Controlling | Closing |
+|-|-|-|-|-|
+| | Plan HR Management | Acquire Team | | |
+| | | Develop Team | | |
+| | | Manage Team | | |
+
+Organize, manage and lead the project team. 
+
+{#section-9-1}
+## Plan Human Resources Management (9.1.)
+
+Identify and document project roles, required skills and create a staffing management plan. Effective planning should plan for the (un)availability or competition for scarce resources
+
+Tools: organization charts and job descriptions. Organization charts can be hierarchical (RBS, OBS), matrix-based (Responsible-Accountable-Consult-Inform matrix) or textual; networking.
+
+Output: Human Resources Management Plan, which contains:
+
+* Roles and responsibilities (role, authority, responsibility and competency)
+* Project organization chart (members and their reporting relationships)
+* Staffing management plan, which describes when and how the team will be acquired. Contains: staff acquisition, resource calendars, staff release plan, training needs and recognition and rewards, safety.
+
+{#section-9-2}
+## Acquire Team (9.2.)
+
+Confirming human resources availability and obtain the team necessary to complete the project.
+
+Important factors: failure to acquire the team may affect schedule, budgets, quality and risks; if resources are not available alternatives may have to be found, as employing less qualified people.
+
+Tools: Pre-assignment (selected in advance), negotiation (with functional managers or other project managers), acquisition; Team members are frequently selected using multi-criteria decision analysis on the basis of availability, cost, experience, skills, ..
+
+Outputs: Staff Assignments, Resource Calendars
+
+{#section-9-3}
+## Develop Project Team (9.3.)
+
+Improving competencies and overall team environment to enhance performance.
+
+PM should have skills to build, motivate, lead project teams to achieve high performance. Develop the team includes improving knowledge and skills, improve feeling of trust, create a cohesive, collaborative team culture.
+
+Tools:
+
+* Interpersonal skills (communication, emotional intelligence, conflict resolution)
+* Training
+* Team-building activities, which are crucial for project success to pass through the phases forming / storming / norming / performing / adjourning.
+* Ground rules (establish clear expectations regarding acceptable team members behaviour)
+* Colocation (placing the team in the same physical location. Can be temporary
+and can include a team meeting room)
+* Recognition and reward
+* Personnel assessment (to enhance the team as a whole)
+
+Output: team performance assessments (assessment of team effectiveness as a whole) with indicators such as turnover, improvements in competencies, increased cohesion
+
+{#section-9-4}
+## Manage Project Team (9.4.)
+
+Tracking team member performance, providing feedback, resolving issues and manage team changes.
+
+Benefit: enhance behaviour, solves issues and appraises team members performance.
+
+Inputs: team performance assessments, issue log, work performance reports
+
+Tools: observation and conversation, performance appraisals (individual evaluation by supervisors, this can include clarification about roles, constructive feedback, discovery of unknown issues), interpersonal skills (leadership, influencing, effective decision making)
+
+Conflict management. conflict is not necessarily bad, but can become if it impacts team performance. Five techniques: withdraw/avoid (retreating or postponing, waiting for others to resolve); smooth/accommodate (concede one position to the needs of others), compromise/reconcile (solution that bring some satisfaction to all parties), force/direct (push one viewpoint through a power position); collaborate/problem solve (cooperative attitude and open dialogue)
+
+Output: change requests for changes that could impact budget or schedule The powers of the PM can be format (based on position) / reward (power from giving rewards) / penalty(coercive) / expert / referent (charisma or fame).
+
+A>There are also various style of leadership: directing (telling others what to do) / facilitating / autocratic (top-down)
+A>
+McGregor's X and Y theory: workers fall in two groups: X need to be watched every minute and avoid work; Y are willing to work without supervision
+

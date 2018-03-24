@@ -1,0 +1,66 @@
+# Communications Management (10.)
+
+{width="wide"}
+| Initiating | Planning | Executing | Controlling | Closing |
+|-|-|-|-|-|
+| | Plan Communications Management | Manage Communications | Control Communications | |
+
+Processes to ensure timely and appropriate planning, creation, distribution or storage of the project information. Effective communication creates a bridge between stakeholders with different cultural and organizational backgrounds.
+Communication has various dimensions: formal, written or spoken, official, …
+
+Communication skills include listening actively, questioning to ensure better understanding, setting and managing expectations, summarizing and identifying next steps, persuading to perfirm an action.
+
+A>Technologies used to communicate vary widely. The right technology choice depends on availability, environment (face-to-face, …), security (confidentiality)
+
+{#section-10-1}
+## Plan Communications Management (10.1.)
+
+Develop an appropriate approach for project communications based on stakeholder’s information needs and available assets.
+
+Inadequate communications planning may lead to problems such as communication to the wrong audience, delays, … Effective communication means that the right information is delivered in the right format at the right time to the right audience and with the right impact.
+
+Important considerations: who need what information, when, where the information will be stored and in which format, how it should be retrieved,...
+
+Tools: Communications Requirements Analysis: resources should be expended only on communication that contributes to the project success. The number of communications channel (n*(n-1)/2) should also be considered.
+
+The basic communication model includes: encode - transmit - decode - acknowledge - feedback.
+
+Communication methods are interactive, push or pull (the information is placed in a central location, the recipients are responsible for “pulling” it)
+
+A>To create an effective communication plan should be considered: the organization’s environment and a structured approach should be taken regarding communication technologies, methods and models. Analyzing stakeholder’s requirements is essential.
+A>
+A>Rules for meetings: set a time limit, meet regularly but not too often, have a purpose for each meeting, with a distributed agenda (and stick to it), bring the right people together, lead the meeting with a set of rules, document minutes.
+
+Outputs: Communications Management Plan, which contains: stakeholders communication requirements, information to be communicated, reason for distribution of that information, person responsible for communicating, escalation process, glossary, …
+
+{#section-10-2}
+## Manage Communications (10.2.)
+
+Creating, collecting, distributing, storing the project information.
+
+Benefit: enables the efficient communication flow between stakeholders. Goes beyond the simple distribution of information, seeks to ensure that the information has been properly received and understood.
+
+Should be considered between others: writing style, choice of media and writing style, meeting management techniques, listening and facilitation techniques, presentation techniques.
+
+A>Communication blockers: noise, distance, improper encoding, making negative statements, hostility, language and culture.
+A>Reports are an important part of communications. Some rules apply, between them: reports should provide the right information and detail required by stakeholders, include measurements against baselines (cost, scope and schedule), must be trustful.
+
+Tools: Technology, models, methods, information management systems.
+
+Output: Project Communications, project plans and documents updates (as a result of the communication), organizational process assets updates (projects reports and records).
+
+{#section-10-3}
+## Control Communications (10.3.)
+
+Monitoring and controlling communications to ensure stakeholders information needs are met.
+
+Inputs: Project Communications, Issues log (to communicate issues)
+
+Tools: expert judgment to assess the impact of communications, meetings, information management systems
+
+Output: change requests if there is need for adjustment or intervention, Project Management Plan updates
+
+
+A>PM measures to check if the communication plan is being followed and stakeholdersneeds are being met.
+A>Although he spends about 90% of his time communicating and should control communications as much as possible, PM cannot control every communication occurring during the project.
+

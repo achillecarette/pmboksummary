@@ -1,0 +1,119 @@
+# Time Management (6.)
+
+{width="wide"}
+| Initiating | Planning | Executing | Monitoring | Closing |       
+|-|-|-|-|-|
+| | Plan Schedule Management  | | Control Schedule | |
+| | Define Activities | | | |
+| | Sequence Activities | | | |
+| | Estimate Resources | | | |
+| | Estimate Durations | | | |
+| | Develop Schedule | | | |
+|-|-|-|-|-|
+
+Processes required to manage the timely completion of the project.
+
+{#section-6-1}
+## Plan Schedule Management (6.1.)
+
+Establish policies, procedures and documentation for planning, managing and executing the project schedule.
+
+Benefit: provides direction on how schedule will be managed.
+
+Input: Project Charter, because it contains summary estimated milestones, information from the Project Management Plan (scope baseline)
+
+Output: Schedule Management Plan, containing between others: acceptable range used in determine realistic activity duration, units of measure, control threshold (amount of variation allowed before action is taken), rules of performance measurement like rules for establishing percent complete (EVM).
+
+{#section-6-2}
+## Define Activities (6.2.)
+
+Identify and document the actions to be performed to produce the project deliverables.
+
+Benefit: break down work packages into activities that provide a basis for estimating, scheduling, executing and controlling the project work.
+
+Tools: decomposition, rolling wave planning
+
+Output: 
+
+* Activity List: comprehensive list with identifier and sufficiently detailed description, with a unique title;
+* Activity Attributes such as activity code, description, associated resources, constraints and assumptions, etc.;
+* Milestone List (milestone is a significant event with no duration)
+
+{#section-6-3}
+## Sequence Activities (6.3.)
+
+Identify and document relationships among activities.
+
+Key benefit: defines the logical sequence of work to obtain the greatest efficiency given all constraints.
+
+Inputs: output from Define Activities, Scope Statement
+
+Tools: PDM (with constraints as Finish-to-start, …). Dependencies can be mandatory - hard logic (such as legal or contractual), discretionary - soft logic (preferred logic), external (dependency on non-project activities) or internal (inside team’s control).
+
+Output: Project Network Schedule Diagrams.
+
+{#section-6-4}
+## Estimate Activity Resources (6.4.)
+
+Estimate type and quantity or resources required to perform each activity.
+
+Benefit: allows more accurate cost and duration estimates.
+
+Inputs: Resource calendars (availability of resources), Risk Register (risk events may impact resource allocation).
+
+Outputs: activity resource requirements, RBS
+
+{#section-6-5}
+## Estimate Activity Durations (6.5.)
+
+Estimate number of work periods needed to complete each activity. Inputs come from the team members that are more familiar with the task.
+
+Benefit: provide the time of each activity (input to the develop schedule)
+
+Inputs: Activity list, activity attributes, resources requirements and calendars.
+
+Tools: expert judgment, analogous estimating (using historical data from similar project or activity. Gross estimation used when limited information is available, less costly and time consuming; parametric estimating (using an algorithm based on historical data or parameters); three-points estimating, triangular (tO + tP + tL) / 3 or beta (tO + tP +4*tL) / 6; group decision techniques.
+
+Reserve analysis: define contingency buffers for known risks and management reserves for unknown risks.
+
+A>PM has a professional responsibility to provide accurate estimates. It is PM responsibility to provide the team with enough information to properly estimate; do a sanity check of estimates; prevent padding; estimate reserves and make sure the assumptions made are recorded.
+A>
+A>Another estimation tool is heuristics, which are a generally accepted rule (like the 80/20 rule)
+
+Output: acivity duration estimates
+
+{#section-6-6}
+## Develop Schedule (6.6.)
+
+Analyze activity sequences, resources requirements, schedule constraints to create the schedule model.
+
+The schedule model is the project data used to calculate a schedule (activities, dependencies, leads and lags, …). The schedule is an output of the schedule model and refers to the defined dates.
+
+Tools:
+
+* Critical path method (early start, early finish, late start and late finish). Critical path is the longest path. Total float of an activity: time the activity can be delayed without impacting project end. Note that critical path may have 0, positive or negative total float depending on constraints applied (negative when a constraint on the late dates is violated, positive when the late date is calculated from a constraint that is later than the early date). The free float is the time an activity can be delayed without delaying the early start of the next one.
+* Critical chain (CCM), that allows to place buffers to account for uncertainties. Feeding buffers are placed when a chain which is not on the critical path “feeds” the critical path. One additional project buffer is placed at the end of the critical path. Note that CCM considers resource leveling while critical path does not.
+* Resource optimization: leveling (adjust start and finish dates to balance the demand and the availability of resources; smoothing (adjust the activities not to exceed predefined limits - available only if it does not change or delay the critical path).
+* Schedule compression: crashing (shorten a task by adding resources); fast tracking (doing tasks that are normally sequential in parallel, at least partially, increases the risk)
+
+Output:
+
+* Schedule baseline: approved version of the Project Schedule
+* Project schedule, which presents the schedule model. The schedule presents at least start and end date of each activity. In general presented graphically, with bar charts (Gantt, used for management communication), milestone charts (Gantt with only milestones) or network diagrams (activity on node, without time scale)
+* Project Calendars
+
+{#section-6-7}
+## Control Schedule (6.7.)
+
+Monitoring the status of the project activities to update progress and manage changes.
+
+As component of Integrated Change Control, Control Schedule is concerned with: determining the status, influencing the factors that cause schedule changes. If an Agile approach is used, it is in Control Schedule that retrospectives are conducted as well as backlog grooming.
+
+Control means measure against the plan - PM needs to stay in control of the project status. This includes taking corrective and preventive actions. It includes also influencing the sources of the changes.
+
+During control, the PM re-estimates the remaining work (schedule forecasts) Benefit: provides a mean to identify deviations and take corrective action.
+
+Tools: Earned Value Management, Critical Path and Critical Chain.
+
+Outputs: Schedule forecasts, change requests
+

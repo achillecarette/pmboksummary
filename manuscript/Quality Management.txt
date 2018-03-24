@@ -1,0 +1,66 @@
+# Quality Management (8.)
+
+{width="wide"}
+| Initiating | Planning | Executing | Monitoring | Closing |
+|-|-|-|-|-|
+| | Plan Quality Management |  Perform Quality Assurance |   Control Quality | |
+
+Determine quality policies and objectives so that the project will satisfy the need for which is has been undertaken. It applies to all projects. PM is responsible to determine the appropriate levels of precision (exactness) and accuracy (correctness) for use in the quality management plan.
+
+Modern quality approaches recognize the importance of customer satisfaction, prevention over inspection, continuous improvement (PDCA), management responsibility and cost of quality (total cost of conformance and non conformance work throughout the deliverable life including operations)
+
+A>PM should recommend improvements to organization standards and processes; quality should be checked whenever (before) a work package is ended.
+
+{#section-8-1}
+## Plan Quality Management (8.1.)
+
+Identify quality requirements and document how the project will demonstrate conformance.
+
+Tools: Cost-benefit analysis, cost of quality, design of experiments, statistical sampling
+
+Seven basic quality tools:
+
+* Ishikawa (fishbone): find causes
+* Flow chart (useful to estimate cost of quality in a process)
+* Checksheet: collect facts and data that will be used to identify the problems(like the number of times each defect has been observed)
+* Pareto diagram: find most important problems or causes
+* Histogram: represent statistical data, in particular tendency and dispersion
+* Control chart: checks if a process is stable, using mean and agreed limits (limits are different from specification limits, they are statistically measured limits representative of the nature of the process). Verify if a process is out of control (out of bounds or seven points on the same side of the mean)
+* Scatter diagram: identify correlations
+
+Three names and quality conceptions are to be remembered:
+* Philip Crosby: 0 defect (prevention is a central element)
+* Joseph Juran: quality comes from the idea of adequation to use, satisfaction of client expectations
+* Deming: total quality management, with PDCA loop. The quality issues are in general caused by the process itself (hence the check-act loop to enhance the process)
+
+Six sigma (guarantee of not having defects in x standard deviation proportion of the production (6 x sigma is 99,99%)
+
+Output:
+
+| Quality Management Plan | Define how quality will be managed: which processes will be followed, the reports used, metrics used, .. |
+| Quality Metrics | Defines measures to monitor quality, like number of items failing inspection, number of bugs found |
+| Quality Checklist | List of items to verify /steps to pass to verify quality. |
+| Process Improvement Plan | Part of the project management plan, used to improve processes to improve quality. Details the steps for analyzing project management processes and enhance their values. Areas included: Process boundaries, process configuration, metrics and targets for improved performance. |
+
+{#section-8-2}
+## Perform Quality Assurance (8.2.)
+
+Auditing the quality requirements and the results from the Control Quality process to ensure appropriate standards are used. Seeks to build confidence that the project output will satisfy requirements. The focus is on the process (PDCA)
+
+Inputs: results of Plan Quality Management and Control Quality.
+
+Tools: quality audits (independent evaluation if project activities comply with policies).
+
+{#section-8-3}
+## Control Quality (8.3.)
+
+Process of monitoring to assess performance and recommend necessary changes.
+
+Key benefits: (1) identifying the causes of poor product quality and recommend measures and (2) validate that project deliverables meet requirements specified.
+
+Inputs: quality checklists, work performance data, approved change requests, project deliverables
+
+Tools and techniques: tools as exposed above, statistical sampling and inspection
+
+Output: quality control measurements, validated changes and deliverables
+

@@ -1,0 +1,81 @@
+# Cost Management (7.)
+
+Processes involving planning, estimating, financing, managing and controlling costs to complete the project within the approved budget. 
+
+Stakeholders requirements should be taken into account; primary interest is costs to complete the project but costs to maintain the product should be considered also.
+
+{width="wide"}
+| Initiating | Planning | Execution | Monitoring | Closing |
+|-|-|-|-|-|
+| | Plan Cost Management | | Control Costs | |
+| | Estimate Costs | | | |
+| | Define Budget | | | |
+|-|-|-|-|-|
+
+{#section-7-1}
+## Plan Cost Management (7.1.)
+
+Establish the procedures for planning, documenting and managing costs.
+
+Benefit: provide guidance on how costs will be managed.
+
+Input: Project Management Plan and Project Charter (which contains a summary budget)
+
+Output: Cost Management Plan: Part of the Project Management Plan. Defines how cost will be managed, reporting formats e control threshold, how the estimates should be stated. It states between others: units of measure (man day, ..), level of precision, control thresholds, rules of performance measurement ...
+
+{#section-7-2}
+## Estimate Costs (7.2.)
+
+Developing an approximation of the monetary resources needed to complete the project. Costs estimates are refined during the project, starting with a ROM (rough order of magnitude). Estimates should consider risks.
+
+Benefit: determines the amount of cost required.
+
+Input: Cost Management Plan, Scope baseline, Risk register, HR management plan, ...
+
+Techniques: Analogous estimating (less precise, without estimating tasks, top-down), parametric, Bottom-up, three points - as for resources estimates; reserve analysis. Vendor bid analysis.
+
+Output: costs estimates
+
+Costs estimates include contingency reserves (to manage “known unknowns”). There are also management reserves to account for “unknown unknown”, which are outside of the project cost baseline. However, the used management reserve should be included in the cost baseline and hence their use should be approved.
+
+Estimates also include indirect costs, which are costs that cannot be traced directly to a project.
+
+{#section-7-3}
+## Determine Budget (7.3.)
+
+Aggregating estimated costs of individual tasks or work packages to establish a baseline.
+
+Inputs: scope baseline, costs estimates, risk registers, agreements, ...
+
+Tools: Cost Aggregation, Reserve Analysis, Funding limits reconciliation
+
+Output:
+
+* Cost baseline, which is an approved version of the budget. The budget comprises: Σ (activity cost estimates + activity contingency reserve) = work package cost estimate; Σ (work package cost estimate + contingency reserve) = control account; Cost baseline is done at control account level. Management reserves, although in the budget, are not part of the baseline.
+* Funding requirements
+
+{#section-7-4}
+## Control Costs (7.4.)
+
+Process of monitoring project status to update the project costs and manage changes to the cost baselines. Increase to the approved budget should be performed through integrated change control.
+
+Expenditures should be compared to the work already done. Includes: influencing factors that create changes; monitoring work and cost performance, preventing unapproved changes.
+
+Tools: EVM (earned value management) and forecasting (which, as a technique, is in control)
+
+{width="wide"}
+| PV | Planned Value | | Authorized project value  |
+| EV | Earned Value | | Work performed in terms of the budget authorized |
+| AC | Actual costs | | Realized cost |
+| BAC | Budget at completion (budget) | | PV at the beginning of the project |
+| EAC | Estimate at completion (currently expected value) | | |
+| ETC | Estimate to complete | | |
+| VAC | Variance at completion | | |
+| SV | Schedule Variance | EV - PV | |
+| CV | Cost variance | EV - AC | |
+| SPI | Schedule Performance Index | EV/PV | |
+| CPI | Cost Performance Index | EV/AC | |
+| TCPI | To Complete Performance Index | (BAC - EV) / (BAC - AC) | |
+
+Output: Costs forecasts, change requests, work performance information.
+

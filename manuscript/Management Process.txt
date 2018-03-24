@@ -1,0 +1,24 @@
+# Project Management Processes (3.)
+
+"*A process is a set of interrelated actions and activities performed to create a pre-specified product, service, or result. Each process is characterized by its inputs, the tools and techniques that can be applied, and the resulting outputs*."[^#3_1]
+
+Good practice does not mean that processes should be applied uniformly. The project team should select what is applicable (tailoring).
+
+{#section-3-2}
+## Project Process Groups (3.2.)
+
+Project management processes are divided in 5 groups, which are **not** project life cycle phases - all groups could be present in a single phase.
+
+* Initiating: define a new project or phase, with initial scope and budget, stakeholders are identified and a project manager is selected, information captured in the project charter and stakeholder register. The project is officially authorized with the approval of the Project Charter.[^3_2] Key purpose: align stakeholders expectations
+* Planning: establish the total scope and effort, refine objectives, eventually using loops of interactions (progressive elaboration). Develop the Project Management Plan. Key benefit: define the strategy, tactics and path to sucessfully complete the project or phase.
+* Executing: carry on the project work, coordinating resources and managing stakeholders expectations. Results may require rebaselining
+* Monitoring and Controlling: track and review progress and performance. Identify required changes and initiate them. Includes also: controlling changes, monitoring the activities against the management plan and influencing the actors to avoid changes that are not approved
+* Closing: conclude activities and formally complete the project. For example: obtain acceptance by the customer, document lessons learned, close procurements.
+
+## Role of the Knowledge Areas (3.9)
+
+The 47 proccesses identified in the PMBOK are grouped in ten knowledge areas that represent a complete set of concepts and activities that make up a professional field or area of specialization.  Each Knowledge Area is the topic of the next chapters
+
+[^3_1]: p.47
+[^3_2]: Note that activities that precede the creation of the project charter, as business case approval and funding are outside of the boundaries of the project.
+

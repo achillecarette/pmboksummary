@@ -1,0 +1,96 @@
+# Scope Management (5.)
+
+Processes to ensure that the project includes all the work required and only the work required.
+
+{width="wide"}
+| Initiating | Planning | Executing | Monitoring | Closing |       
+|-|----------------------------------------|-|----------------------|-|
+| | Plan Scope Management       | | Validate Scope | |
+| | Collect Requirements             | | Control Scope  | |
+| | Define Scope                           | |                           | |
+| | Create WBS                              | |                           | |
+|-|----------------------------------------|-|----------------------|-|
+
+A>PM should plan in advance how he will manage scope; scope should be clearly identified and formally approved; requirements are gathered from all stakeholders; requirements should be evaluated against the business case; changes should be evaluated for effects on time, cost, risk,..; no change in scope is allowed without an approved change request, and a change should not be approved if it does not fit in the project charter.
+
+{#section-5-1}
+## Plan Scope Management (5.1.)
+
+Create the Scope Management Plan that explains how the scope will be defined, validated and controlled.
+
+Inputs: Project Management Plan, Project Charter
+
+Outputs: Scope Management Plan, Requirements Management Plan
+
+{#section-5-2}
+## Collect Requirements (5.2.)
+
+Determining, documenting and managing stakeholders needs and requirements to meet project objectives.
+
+Requirements include conditions or capabilities that are to be present in the product or result. Requirements are the foundation of the WBS, they should be quantified and documented in enough detail to be included in the scope baseline and measured once the project begins.
+
+Requirements can be classified as business requirements, stakeholders requirements, solution requirements (functional or non functional) and quality requirements.
+
+A>High-level requirements have already been collected to create the project charter. Collect requirements is gathering more detailed input on what is required and related expectations from stakeholders.
+
+Inputs: stakeholders and requirement-related documents: project charter, stakeholder register, project management plan.
+
+Tools: interviews, focus groups and facilitated workshops, group creativity techniques (brainstorming, mind mapping, affinity diagram..); surveys; prototypes; benchmarking; group decision-making technique (unanimity / dictatorship / majority / plurality (the biggest group decides even if it hasn't a majority)
+
+Output: Requirements Documentation; requirements traceability matrix (which helps ensure that each requirement adds value)
+
+{#section-5-3}
+## Define Scope (5.3.)
+
+Develop a detailed description of the project or product. Define which requirements will be included or excluded from the project.
+
+A>This is an iterative task. After determining a scope, the PM calculates time and budget. If theses do not comply with the sponsor expectations the PM should come with alternatives and balances the variables.
+
+Input: Project charter, Requirements Documentation, Scope Management Plan
+
+Output: Project Scope Statement, which contains the description of the scope, major deliverables, acceptance criteria, constraints and assumptions. Describes in detail the deliverables and the work needed. It also contains scope exclusions that help managing stakeholders expectations. 
+
+{#section-5-4}
+## Create WBS (5.4.)
+
+Subdividing project scope and work in more manageable components. Hierarchical decomposition with work packages (work products to be created) at the lowest level, for which cost and duration can be estimated. Work packages are associated with a control account, control point where scope, budget, cost and schedule are integrated.
+
+Benefit: provides a structured vision of what has to be delivered.
+
+A>The WBS is created with the help of the team; it includes only deliverables required by the project; is includes all project work (deliverables not part of the WBS are not part of the project).
+A>Work packages can be realistically estimated, completed quickly or outsourced.
+
+Inputs: Scope statement and requirements documentation, scope management plan.
+
+Tools: Decomposition and expert judgment
+
+Output: Scope baseline (approved scope statement, WBS and WBS Dictionary). WBS Dictionary provides detailed deliverable, activity and scheduling information about each WBS component: description of work, assumptions and constraints, milestones, responsible organization, cost estimates, quality requirements
+
+{#section-5-5}
+## Validate Scope (5.5.)
+
+Formalizing acceptance of the completed project deliverables.
+
+Benefit: brings objectivity and increases chance of final product acceptance.
+
+Input: Verified Deliverables (before validating scope documents they are checked for correctness and quality requirements by the Control Quality process); scope baseline, requirements documentation and requirements traceability matrix.
+
+Output: Accepted Deliverables, Change Requests, work performance information (information about project progress) and project documents updates.
+
+{#section-5-6}
+## Control Scope (5.6.)
+
+Monitoring the status of the project scope and maintain changes to the scope baseline.
+
+Ensure that requested changes and recommended actions are processed through Integrated Change Control.
+
+Benefit: maintain scope baseline throughout the project.
+
+Tools: Variance Analysis (only)
+
+Outputs: Work Performance Information, change requests and project management
+plan updates
+
+A>Control scope involves measuring and assessing work performance data against scope baseline and managing change. PM responsibility is not passive, he should actively control the scope, eventually impeaching out-of-scope changes.
+
+

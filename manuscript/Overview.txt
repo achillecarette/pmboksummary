@@ -1,0 +1,38 @@
+{frontmatter}
+
+# Overview
+
+## Purpose
+
+The purpose of this work is to be a short but complete digest of the PMBOK Guide 5th edition. It was initially created as an aid to prepare for the PMP exam but it can be used  by any project manager on a daily basis as a quick reference.
+
+Differently from many guides that already provide exhaustive information, the present document aims to be **resumed**. 
+
+### Scope
+
+This document is based on the **5th edition** of the "*A Guide to the Project Management Body of Knowledge*". It tries to respect it strictly, only bringing some additional information or explanations from well known sources.  
+
+A>Additional content coming from the book “Rita Mulcahy’s PMP Exam Prep 8th Edition” is placed in "sidebar" blocks.
+
+## Organization
+
+The chapters follow the PMBOk's. However, as the numbering of the titles does not follow the PMBOK (because not all titles are kept) the original numbering is put in parentheses after the title name.
+
+## A Note of Warning
+
+This document should not be used without caution. Because it is not intended to be a complete reference, not all inputs, outputs, tools and techniques are listed. Only elements that were considered **non obvious** have been included. In other words, the content is somewhat *incomplete* and *arbitrary*. 
+
+## Origin
+
+I studied for the PMP exam using four main sources: the PMBOK itself, the Rita Mulcahy's guide, mock exams and an in-class course.  These sources revealed  for the most part redundant but, unfortunately, not always coherent. Facing this huge quantity of information I felt the need to create a short and coherent compilation of the most important parts.  This work proved useful to me and i decided to make it available to the community.
+
+Please feel invited to send any comments, questions or corrections you may have.
+
+## Revisions
+
+{width="wide"}
+| Date | Version | Description |
+|-|-|-|
+| 2014-09-23 | 1.0 Public Working Draft | First publication for review |
+| 2014-10-03 | 1.1 Public Working Draft | Completed chapter 1, 2 and 3 |
+

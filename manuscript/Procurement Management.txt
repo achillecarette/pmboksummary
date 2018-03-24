@@ -1,0 +1,90 @@
+# Procurement Management (12.)
+
+{width="wide"}
+| Initiating | Planning | Executing | Controlling | Closing |
+|-|-|-|-|-|
+| Plan Procurement Management | Conduct Procurements | Control Procurements |
+
+Processes necessary to acquire products and services needed from outside of the project.
+
+This involve agreements, including contracts, which are legal documents binding a buyer and a seller. It is the PM responsibility to verify that the contracts provide what is needed and comply with the organization policies.
+
+Note that the lifecycle of a contract may be different from the project lifecycle. The processes are performed for each item purchased.
+
+{#section-12-1}
+## Plan Procurement Management (12.1.)
+
+Document procurement decisions and identify potential sellers. Identify project needs that are best met or should be met by acquiring external services or products. Includes evaluating the risks involved and reviewing the type of contract to be used to avoid, mitigate or transfer risks to the seller.
+
+Key benefit: determines if it is needed to acquire external support, how, how much and when.
+
+A>This process answers the questions: how will make-or-buy analysis be performed, what good and services need to be purchased, how will they be purchased, what are the potential sellers.
+A>
+A>It includes the following activities: make-or-buy analysis, create the procurement management plan; for each procurement create the SOW; select the contract type.
+
+Input: scope statement, WBS, requirements documentation, resource requirement, cost estimates, risk register, organizational process assets: formal procurement policies, established prequalified sellers
+
+Main types of contracts are:
+
+1. Fixed price:
+  1. Firm Fixed Price - FFP
+  1. Fixed Price Incentive Fee (with incentive for performance)
+  1. Fixed Price with Economic Price Adjustment - FP-EPA: for long term contracts
+2. Cost-reimbursable:
+  2. Cost Plus Fixed Fee - CPFF
+  2. Cost Plus Incentive Fee - CPIF
+  2. Cost Plus Award Fee - CPAF. The majority of the fee is earned on a broad subjective criteria at buyer's discretion.
+3. Time and Materials. Note that a not-to-exceed cost limit or time limit may be specified to avoid uncontrolled growth.
+
+Tools: Make-or-buy analysis, market research
+
+Output:
+
+* Procurement Management Plan, defining types of contracts to be used, metrics used to evaluate sellers, coordination with other project aspects, setting schedule dates for the contract deliverables and coordinating with schedule development and defining form and formats used for SOW;
+* Statement of Work (SOW) which is developed in sufficient details from the scope baseline to permit to conduct procurements. Should be written to be clear, complete and concise.
+* Procurement documents used to solicit proposals from prospective sellers: RFP/ RFB; Should be consistent with the value and risk associated with the planned procurement.
+* Source selection criteria: understanding of the need, technical capacity,
+warranty, business size, financial stability, intelectual property rights ...
+* Make-or-buy decisions
+
+{#section-12-2}
+## Conduct Procurements (12.2.)
+
+Obtain sellers responses and award a contract.
+
+Input: SOW, organizational process assets, seller proposals
+
+Tools: Proposal Evaluations Techniques, Independent Estimates, Procurement negotiations, bidders conferences (meeting with all bidders to ensure they have a common understanding)
+
+Output: selected sellers: have been judged in the competitive range and have negociated a draft contract that will become an actual contract when an award is made (which may require senior management approval); agreements including terms and conditions. A contract is a legal relationship which may include: deliverables, schedule, reporting, place of performance, pricing, warranties, penalties or change requests handling.
+
+{#section-12-3}
+## Control Procurements (12.3.)
+
+Manage procurement relationships, monitoring contract performance, making changes and corrections as appropriate.
+
+Integration of the result of the contract execution in the project has impacts on the processes "Direct and manage Project Work", "Control Quality", "Perform Integrated Change Control" and "Control Risks". In addition, payments to the seller should be moniotred to ensure that they are closely linked to the seller progress as defined by the contract.
+
+A>Constructive changes to a contract occur when the buyer gets in the way of performing its work. This could be because of actions (too much control) or inactions (failing to provide informations to conduct reviews). PM should be careful at this respect.
+A>
+A>The only person authorized to change a contract is the "contract administrator", who may be the procurement manager and not the PM. In this case, there is an additional layer and risks (if PM and procurement manager disagree)
+
+Input: Agreements, work performance data and reports
+
+Tools: Procurement performance reviews of the seller's progress as compared to the contract; inspections and audits, claims administration for contested changes (settlement is preferred); payment systems (in accordance with the terms of the contract), records management system.
+
+Output: Organizational process assets updates: correspondance exchanged, payment shcedules, seller performance documentation; change requests.
+
+{#section-12-4}
+## Close Procurements (12.4.)
+
+Process of completing each procurement. This includes administratives tasks such as finalizing open claims and archiving the information. Uresolved claims may be subject to litigation after closure.
+
+Early termination is a special case of closure resulting from mutual agreement, default or connvenience of a part if provided for in the contract. Rights and responssbilities are specified in the termination clause.
+
+Key benefit: document agreements for future reference.
+
+Tools: audits, to identify successes and failures; negotiations for outstanding claims and disputes, records management system (contracts, as legal documents, should be properly archived)
+
+Output: closed procurements, organizational assets update.
+

@@ -1,0 +1,61 @@
+# Stakeholder Mangement (13.)
+
+{width="wide"}
+| Initiating | Planning | Executing | Controlling | Closing |
+|-|-|-|-|-|
+| Identify Stakeholders | Plan Stakeholders Management | Manage Stakeholder Engagement | Control Stakeholder Engagement | |
+
+Identify the peoples or organizations that could impact or be impacted by the project, to analyze their expectations and possible impact and to develop strategies to effectively engage them.
+
+{#section-13-1}
+## Identify Stakeholders (13.1.)
+
+Identify the people, groups or organizations that could impact or be impacted by the project and document relevant information regarding their interests, involvement, influence.
+
+Inputs: Project Charter, environment and organizational assets
+
+Tools: stakeholder analysis, which is systematically gathering qualitative and quantitative information to determine whose interest should be taken care of during the project; expert judgement and meetings.
+
+Classification models include grids like interest-power grid divides the stakeholders in four regions with different actions: ++ manage closely / +- keep informed / -+ keep satisfied / -- monitor. Salience model classifies stakeholders according to their power, urgency and legitimacy.
+
+Output: stakeholder register, which contains identification information, assessment information and stakeholder classification
+
+{#section-13-2}
+## Plan Stakeholder Management (13.2.)
+
+Develop appropriate management strategies to effectively engage stakeholders. This process identifies how the project will impact stakeholders and develop ways to engage them.
+
+Stakeholder Management Plan and Communication Plan are both repositories of similar information. However, if the communications plan defines the tools and technologies, the stakeholder management plan is more concerned with the "why" of the communication.
+
+Great caution should be taken redacting and distributing the stakeholder management plan. The information it contain could be confidential e eventually extremely damaging (in particular considering that good relations with stakeholders is essential to project success).
+
+Benefit: provides a clear, actionable plan
+
+Tools: meetings, expert judgment, analytical techniques (unaware / resistant / neutral / supportive / leading)
+
+Outputs: stakeholder management plan, which provides: current and desired engagement of key stakeholders, identified interrelationships, communication requirements.
+
+{#section-13-3}
+## Manage Stakeholder Engagement (13.3.)
+
+Communicating and working with stakeholders to meet their expectations and foster engagement in project activities. this includes manage expectations and addressing potential concerns.
+
+Benefit: increase support, increasing the chances to reach project success.
+
+Inputs: Stakeholder Management Plan, Communications Management Plan
+
+Tools: communications methods, interpersonal skills
+
+Output: issue log, change requests, organization process assets updates (like presentations to stakeholders, feedback from them, lessons learned)
+
+{#section-13-4}
+## Control Stakeholder Engagement (13.4.)
+
+Monitoring overall stakeholder relationships and adjusting strategies and plans. Benefit: maintain or increase the level of engagement.
+
+Input: Project management plan, issue log
+
+Tools: information management system (standard way to capture, store and distribute project information), expert judgment and meetings
+
+Outputs: change requests, organizational process assets updates
+

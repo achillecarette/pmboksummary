@@ -1,0 +1,35 @@
+{mainmatter}
+
+{#section-1}
+# Introduction (1.)
+
+"*A project is a temporary endeavour undertaken to create a unique product, service, or result.*"[^1_1]
+
+"*Project Management is the application of knowledge, skills, tools and techniques to project activities to meet the project requirements.*"[^1_2]
+
+A program is a group of related projects, subprograms and program activities (outside of discrete projects) managed in a coordinated way.
+
+A portfolio is a set of projects, programs, subportfolios and operations managed as a group to achieve strategic objectives.
+
+{#section-1-4-4}
+### Project Management Office (1.4.4.)
+
+A PMO is a management structure that standardizes project-related governance processes and facilitates the sharing of resources. PMO integrates data from strategic planning and how higher level objectives are being fulfilled.
+
+* Supportive: consultative role
+* Controller: consultative and require compliance
+* Directive: directly manage the projects
+
+{#section-1-5-2}
+### Organizations and Project Management (1.5.2.)
+
+Projects should remain aligned with organization strategic plans. Organizational governance can impose constraints on projects. If the goal of a project conflicts with the organization strategy, the PM is responsible for documenting it.
+
+{#section-1-7}
+## Role of the Project Manager (1.7.)
+
+The PM is the person assigned to lead the team that is responsible for achieving the project objectives. The PM is the link between the organization strategy and the team. In addition to apply knowledge, tools and techniques he should have eventual area-specific skills, general management proficiency and interpersonal skills such as leadership, communication, influencing, negociation or confllict management.
+
+[^1_1]: p.3
+[^1_2]: p.5
+

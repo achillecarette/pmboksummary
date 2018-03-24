@@ -1,0 +1,123 @@
+# Integration Management (4.)
+
+{width="wide"}
+| Initiating | Planning | Executing | Monitoring | Closing |       
+|--|--|--|--|--|
+| Develop Project Charter | Develop Project Management Plan | Direct And Manage Project Work |  Monitor and Control Project Work | Close Project or Phase |
+| | | | Perform Integrated Change Control | |
+|--|--|--|--|--|
+
+Define, combine, unify and coordinate the various processes and manage interdependencies among knowledge areas. 
+
+{#section-4-1}
+## Develop Project Charter (4.1.)
+
+Develop the document that formally authorizes the project.
+
+Benefit: well defined project start and project boundaries, formal way to accept and commit to the project.
+
+A> The project charter is influenced by
+A> Business case
+A> Project selection methods, which can be classified in benefit measurement (comparative) such as economic models (net present value, payback period) and constraint optimization (mathematical).
+A> Constraint and assumptions
+A> Statement of Work (SOW), which is created by customer or sponsor and describes the project scope and its alignment with the organization strategy The project charter is authored by the sponsoring entity but the participation of the PM is recommended.
+
+Inputs: Statement of Work (narrative description of the result containing business need, scope description and strategic plan); Business case (which describes from a business point of view if the project is worth the investment)
+
+Output: Project Charter. This document issued by the sponsor formally authorizes the project and gives authority to the project manager. It documents business needs, assumptions, constraints and understanding of high level requirements. It also documents a summary budget and schedule and project approval criteria.
+
+{#section-4-2}
+## Develop Project Management Plan (4.2.)
+
+Define and coordinate the subsidiary plans and integrate them into a comprehensive plan. The project Management Plan describes how the project is executed, monitored and controlled, and closed.
+
+Benefit: central document that defines the basis of the project work.
+
+Inputs: Project Charter and outputs from other processes.
+
+Output: Project Management Plan, that describes how the project will be executed and controlled. It integrates the subsidiary plans and baselines, in particular scope, schedule and cost baselines. It requires formal approval.
+
+A>In addition to plans for each knowledge area, there is
+A>* Change management Plan
+A>* Configuration management Plan
+A>* Requirements Management Plan
+A>* Process Improvement Plan
+
+{#section-4-3}
+## Direct and Manage Project Work (4.3.)
+
+Leading and performing the work defined in the project management plan and implementing approved changes. Work performance data is collected during work execution (lessons learned too).
+
+Approved changes include corrective and preventive actions and defect repair.
+
+A>This represents the integration aspect of project execution, integrating all the work in a coordinated way. Basically, this processes takes project plans and approved changes as input and produces change requests, deliverables, work performance data and updates to the plans.
+
+Input: Project Management Plan, Approved Change Requests.
+
+Outputs: deliverables, work performance data, change requests for issues found while the work is performed.
+
+{#section-4-4}
+## Monitor and Control Project Work (4.4.)
+
+Tracking, reviewing and reporting project progress.
+
+Key benefit: allows the stakeholders to understand the current state of the project.
+
+Monitoring includes collecting and distributing work performance information. This includes between others comparing project performance against management plan and identify new risks.
+
+Inputs: Project Management Plan, work performance information, costs and schedule forecasts.
+
+Tools: meetings, analytical techniques (root cause, trend analysis, reserve analysis, ...)
+
+Outputs: Change requests (changes may include corrective actions, preventive actions and defect repair), work performance reports (presentation of work performance information)
+
+{#section-4-5}
+## Perform Integrated Change Control (4.5.)
+
+Process of reviewing the change requests, approving them, manage change to deliverables and communicate their disposition.
+
+Key benefit: allows for documented changes in an integrated fashion and reduces risk.
+
+This process is the ultimate responsibility of the PM. Changes may be request by any stakeholder. Change requests should be approved or rejected by either the PM, the project sponsor or the Change Control Board (CCB) - the responsible individual is defined in the Project Management Plan.
+
+Configuration control is focused on the specification of deliverables and processes.
+
+Some of the configuration control activities included are configuration identification (selection of configuration items), configuration verification and audit (ensure the composition of a project's configuration is correct and corresponding changes are registered)
+
+Approved changes can require modifying the project management plan or the project documents.
+
+Inputs: Project Management Plan, Change Requests, Organizational Assets such as change control procedures, ...
+
+Outputs: Approved Change Requests, Project Management Plan and Document updates, change log.
+
+A>Process for handling change:
+A>
+A>1. Prevent the root cause of change
+A>1. Identify changes as early as possible
+A>1. Look at the impact of change
+A>1. Create change request
+A>1. Perform integrated change control
+A>  * assess the change (starting with: is it aligned with the project charter, is it beneficial, ..)
+A>  * look for options (decrease threats, compress schedule, ..)
+A>  * approve / reject change, through CCB if affecting the baselines
+A>  * adjust plans and baselines if necessary
+
+{#section-4-6}
+## Close Project or Phase (4.6.)
+
+Finalize the all activities to formally close the project or phase. The PM reviews the scope to ensure that the project objectives are met.
+
+If project is terminated before completion, investigate and document the reasons for actions taken.  
+
+This includes activities necessary to transfer the product to operations.
+
+Key benefit: provides formal ending of the work, lessons learned and release of resources.
+
+Input: Project Management Plan, accepted deliverables
+
+Tools: expert judgment, meetings, analytical techniques
+
+Output: Final product, service or result; organizational process assets update
+
+A>A project should always be closed, independently of its outcome. Close project and close procurements are the two parts of terminating a project. Close project involves getting formal acceptance for the project as a whole, complete financial closure, archive records, gather lessons learned.
+

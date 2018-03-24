@@ -1,0 +1,100 @@
+# Risk Management (11.)
+
+{width="wide"}
+| Initiating | Planning | Executing | Controlling | Closing |
+|-|-|-|-|-|
+| | Plan Risk Management | | Control Risks | |
+| | Identify Risks | | | |
+| | Perform Qualitative Risk Analysis | | | |
+| | Perform Quantitative Risk Analysis | | | |
+| | Plan Risk Responses | | | |
+
+The objectives of risk management are to increase the likelihood and impact of positive events and decrease the likelihood and impact of negative events.
+
+Risk is an uncertain event that has a positive or negative impact. Known risks can be managed proactively or be assigned a contingency reserve.
+
+Risk is accepted differently by organizations, depending on their risk appetite (willing to take in anticipation of a reward), risk tolerance (risk that can withstand) and risk threshold (limit of acceptable risk).
+
+{#section-11-1}
+## Plan Risk Management (11.1.)
+
+Process of defining how to conduct risk management.
+
+Benefit: ensure that risk management is aligned with the risks and importance of the project. Risk management plan is vital to communicate and obtain agreement and support from all stakeholders.
+
+Inputs: Project Charter, Stakeholder Register
+
+Output: Risk Management Plan, which includes
+
+* Methodology: approaches tools and data sources used to manage risk
+* Roles and responsibilities
+* Budgeting
+* Timing
+* Risk Categories (grouping potential causes of risk - RBS)
+* Probability and impact matrix
+
+{#section-11-2}
+## Identify Risks (11.2.)
+
+Determine which risks can affect the project and document their characteristics.
+
+All project team is encouraged to identify risks. Subject matter experts from outside of the project can also be included.
+
+Tools: Information gathering techniques (brainstorming, Delphi, interviews, root cause analysis); checklist analysis based on historical data or the lowest level of RBS; assumptions analysis; diagramming (fishbone, influence diagrams); SWOT analysis
+
+Output: Risk Register (list of identified risks and potential responses)
+
+{#section-11-3}
+## Perform Qualitative Risk Analysis (11.3.)
+
+Prioritizing risks for further analysis by assessing their probability and impact. Establishing definitions for probability and impact help reduce the influence of bias in risk management.
+
+Benefit: reduce uncertainty and focus on high-priority risks
+
+Tools: probability and impact assessment; probability and impact matrix (probability from 0 to 1, and for example impact from 1 “no real impact” to 10 “project failure” passing by 6 “over budget or delay of 10 to 20%”); risk data quality assessment, risk categorization; risk urgency assessment.
+
+Output: updates to documents, principally the Risk Register with the following information: probabilistic analysis of the project as a whole, prioritized list of risks, ...
+
+{#section-11-4}
+## Perform Quantitative Risk Analysis (11.4.)
+
+Numerically analyze the effects of risks on the overall project objectives.
+
+Benefit: produce quantitative risk information to support decision making. It is done on risks prioritized in the Qualitative Risk Analysis.
+
+Tools: data gathering and representation (interviewing, probability distributions); quantitative analysis (sensitivity analysis - tornado diagram, expected monetary value analysis, modeling and simulation)
+
+Output: project document updates: probabilistic analysis of the project, probability of achieving objectives, prioritized list of quantified risks, trends in risk exposure.
+
+{#section-11-5}
+## Plan Risk Responses (11.5.)
+
+Process of developing options and actions to enhance opportunities and reduce threats.
+
+Key benefits: address risks by priority, inserting them and the responses in baselines (budget, time)
+
+Tools: strategies for negative risks: avoid, transfer, mitigate, accept; for positive risks: exploit, enhance, share, accept; contingent response strategies (fallback plan triggered under certain predefined conditions)
+
+Output: update to projects plans and documents (schedule, cost, human resources, baselines). Updates to the risk register include:
+
+* Agreed-upon strategies
+* Contingency plans and triggers that call their executions
+* Buget and activities to implement responses
+* Residual risks (that remain after planned responses have been taken) and secondary risks
+
+{#section-11-}
+## Control Risks (11.6.)
+
+Implement risk response plans, tracking identified risks, identify new risks.
+
+Inputs: Risk Register, work performance data
+
+Tools:
+
+* Risk reassessment
+* Risks audits: examine and document the effectiveness of risks responses as well as the effectiveness of risk management process. PM is responsible to ensure that audits are conducted regularly.
+* Variance and trend analysis
+* Reserve analysis
+
+Outputs: Work Performance Information, change requests, documents updates and organizational process assets update.
+

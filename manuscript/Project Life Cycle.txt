@@ -1,0 +1,76 @@
+# Organizational Influences and Project Life Cycle (2.)
+
+Projects  and project management are affected by organizational influences such as established practices, which should be understood by the PM.
+
+{#section-2-1}
+## Organizational Influences on Project Management (2.1.)
+
+Organization culture, structure and maturity influences how projects are performed.
+
+{#section-2-1-3}
+### Organizational Structures (2.1.3.)
+
+* Functional: PM has low or no authority, projects are led by functional managers. Team is only part-time on the project.
+* Weak matrix: project have an "expediter"who is merely an expeditor (staff member) without decision power or coordinator with very limited autonomy.
+* Strong matrix: full-time projects managers and full time administrative staff.
+* Balanced matrix: there is a project manager, but with limited power.
+* Projetized
+* Composite: various structure types are present at different levels.
+
+{#section-2-1-4}
+### Organizational Process Assets (2.1.4.)
+
+Plans, processes, policies and knowledge bases used by the performing organization that can be used to run the project. They include lessons learned, historical information as completed schedules, risk data, ...
+
+* Processes and procedures: guidelines and criteria for tailoring, standard and policies, templates, communication
+* Corporate knowledge base: historical information and lessons learned, files from previous projects, financial databases, ...
+
+{#section-2-1-5}
+### Enterprise Environmental Factors (2.1.5.)
+
+Conditions, not under the control of the project team, the influences, constrain or direct the project. For example: organization culture, geographic distribution, political climate, infrastructure, ...
+
+{#section-2-2}
+## Project Stakeholders and Governance (2.2.)
+
+A stakeholder is an individual, group or organization who may affect or be affected by the project.
+
+{#section-2-2-1}
+### Project Stakeholders (2.2.1.)
+
+* Sponsor: person (or group) who provides resources and support; promotes the project. Important in defining the scope and project charter. Serves to escalate issues out of the reach of the project manager
+* Customers and users. Persons who will use the project result
+* Sellers (suppliers, contractors): provide components or services to the project
+* Business partners: external organizations
+* Organizational groups Internal groups affected by the project
+* Functional managers.
+* Others
+
+{#section-2-2-2}
+### Governance (2.2.2.)
+
+Oversight function, aligned with organization governance, providing a comprehensive and consistent method of controlling the project. A project governance includes:
+
+* Success and deliverable acceptance criteria
+* Process to identify and resolve issues
+* Organization chart
+* Processes and procedures for communication
+* Project lifecycle approach
+* Process for review and approval of changes to scope / budget / schedule
+
+{#section-2-2-3}
+### Project Success (2.2.3.)
+
+Project success is measured in terms of completing the project within scope, schedule and quality.
+
+{#section-2-4}
+## Project Life Cycle (2.4.)
+
+Series of phases from initiation to closure, in general sequential and time bounded, with a start and ending or control point.
+
+Although project lifecycle depends on the organization and on the project, a generic cycle can be defined: starting, organizing and preparing, executing, closing. Risk decreases during project and cost of change increases.
+
+A project may be divided in phases, which are a collection of logically related project activities that produce one or more deliverables. Work of each phase has a different focus, control processes are unique to the phase and a phase ends with hands-off of some product. Phases may be sequential or overlapping.
+
+Lifecycle can be predictive: scope, time and cost are fully determined at the start. Preferable when product is well understood and should be delivered entire to have value. Incremental lifecycle add value incrementally. Adaptive lifecycle (agile or change-driven) are intended to respond to high level of change. Needed when the scope cannot be fully determined during the early phases of the project.
+
