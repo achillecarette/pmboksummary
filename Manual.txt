@@ -1,0 +1,61 @@
+
+
+Introduction
+============
+
+All the book content is written using Leanpub's Markdown dialect - which is pure text including commands and formatting instructions.
+
+This content reached 27 chapters and in order to keep it well organized, a few conventions need to be respected.
+
+
+Files Organization
+==================
+
+Each PMBOK chapter has a separate file
+Each file is named using the convention xx-yy-Name.txt, where
+  xx is the section number
+  yy is the chapter order within the section
+
+
+Parts, chapters and sections
+============================
+
+The book has two parts, one for PMBOK 6 and the second one for PMBOK 5. They are marked as
+
+-#
+
+For example:
+-# Project Management Guide to the Body of Knowledge, 6^th^ edition
+
+Each PMBOK chapter has it own book chapter - typically one per file
+
+{#p-x-ch-y}
+# Chapter y title (chapter number in PMBOK)
+
+For example. for the first chapter of the second part, relating to chapter 1. of the PMBOK
+{p-2-ch-1}
+# Introduction (1.)
+
+Each chapter may have sections and sub-sections as
+
+{#p-x-ch-y-z}
+## Section title (section number in PMBOK)
+
+For example, for the subsection 5.2 in chapter 1 of the part 2:
+{#p-2-ch-1-5-2}
+### Organizations and Project Management (1.5.2.)
+
+This organization guarantees that bookmark ids are unique and easily referenceable.
+
+
+Footnotes
+=========
+
+Footnotes are typically used to add references to the PMBOK page number of a citation. 
+They have two parts: the footnote id in the text [^x_y_z] and, at the bottom of the file, th footnote content as
+
+[^x_y_z]: footnote content
+
+x is the part number
+y is the chapter number
+z is the section/sub-section numbers
